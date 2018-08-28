@@ -39,6 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Alex's First CS193 Lab
 ### Favorite Things About the Class
--the instructors
--we're learning relevent information
--easy, but important work
+- the instructors
+- we're learning relevent information
+- easy, but important work
